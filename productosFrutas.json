@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "titulo": "Manzana",
+      "imagen": "./Images/Frutas/Manzana.jpg",
+      "precio": 1.50
+    },
+    {
+      "id": "2",
+      "titulo": "Naranja",
+      "imagen": "./Images/Frutas/Naranja.jpg",
+      "precio": "2.00"
+    },
+    {
+      "id": "3",
+      "titulo": "Platano",
+      "imagen": "./Images/Frutas/Platano.jpg",
+      "precio": "0.50"
+    },
+    {
+      "id": "4",
+      "titulo": "Uvas",
+      "imagen": "./Images/Frutas/Uva.jpg",
+      "precio": "3.00"
+    },
+    {
+      "id": "5",
+      "titulo": "Fresas",
+      "imagen": "./Images/Frutas/Fresas1.jpg",
+      "precio": "1.00"
+    },
+    {
+      "id": "6",
+      "titulo": "Sandia",
+      "imagen": "./Images/Frutas/Sandia.jpg",
+      "precio": "4.00"
+    },
+    {
+      "id": "7",
+      "titulo": "Piña",
+      "imagen": "./Images/Frutas/Piña1.jpg",
+      "precio": "2.50"
+    },
+    {
+      "id": "8",
+      "titulo": "Mango",
+      "imagen": "./Images/Frutas/Mango.jpg",
+      "precio": "2.00"
+    },
+    {
+      "id": "9",
+      "titulo": "Pera",
+      "imagen": "./Images/Frutas/Pera.jpg",
+      "precio": "1.50"
+    },
+    {
+      "id": "10",
+      "titulo": "Cereza",
+      "imagen": "./Images/Frutas/Cereza.jpg",
+      "precio": "3.50"
+    },
+    {
+      "id": "11",
+      "titulo": "Kiwi",
+      "imagen": "./Images/Frutas/kiwi.jpg",
+      "precio": "2.50"
+    },
+    {
+      "id": "12",
+      "titulo": "Durazno",
+      "imagen": "./Images/Frutas/Durazno.jpg",
+      "precio": "1.50"
+    },
+    {
+      "id": "13",
+      "titulo": "Ciruela",
+      "imagen": "./Images/Frutas/Ciruela.jpg",
+      "precio": "2.00"
+    },
+    {
+      "id": "14",
+      "titulo": "Frambuesa",
+      "imagen": "./Images/Frutas/Frambuesa.jpg",
+      "precio": "3.00"
+    },
+    {
+      "id": "15",
+      "titulo": "Mora",
+      "imagen": "./Images/Frutas/Mora.jpg",
+      "precio": "2.00"
+    },
+    {
+      "id": "16",
+      "titulo": "Melon",
+      "imagen": "./Images/Frutas/Melon.jpg",
+      "precio": "3.50"
+    },
+    {
+      "id": "17",
+      "titulo": "Limon",
+      "imagen": "./Images/Frutas/Limon.jpg",
+      "precio": "1.00"
+    },
+    {
+      "id": "18",
+      "titulo": "Aguacate",
+      "imagen": "./Images/Frutas/Aguacate.jpg",
+      "precio": "2.50"
+    },
+    {
+      "id": "19",
+      "titulo": "Toronja",
+      "imagen": "./Images/Frutas/Toronja.jpg",
+      "precio": "1.50"
+    },
+    {
+      "id": "20",
+      "titulo": "Granada",
+      "imagen": "./Images/Frutas/Granada.jpg",
+      "precio": "4.00"
+    }
+  ]
